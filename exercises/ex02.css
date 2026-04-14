@@ -1,0 +1,21 @@
+p {color: rgb(236, 187, 40); font-size: large} 
+
+p {background-color: yellow}
+
+.highlight_01 {
+    background: #ae35ae
+}
+.highlight_02 {
+    background: #6666df
+}
+.highlight_03 {
+    background: #fffc5dee
+}
+
+#matcha {
+    width: 200px; height: 300px
+}
+
+p strong {
+    font-weight:normal
+}
