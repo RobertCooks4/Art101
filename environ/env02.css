@@ -1,0 +1,37 @@
+body {
+    background-image:url("cheese.jpg");
+    padding: 50px;
+}
+#rat {
+    width: 300px;
+}
+p {
+    font-size:x-large;
+}
+#cheesewedge {
+    width: 100px;
+}
+#egg {
+    width:75px;
+    height:75px;
+}
+.main-section {
+  display: flex;
+  gap: 20px
+}
+.main-section h1 {
+    background: #e1c808;
+    padding: 20px;
+    font-style: italic;
+    margin-top: 0;
+}
+.main-section img {
+    border-radius: 15px;
+}
+.lower-section {
+    flex: 1;
+    
+}
+.lower-section img {
+    border-radius: 12px;
+}
