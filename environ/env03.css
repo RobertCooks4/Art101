@@ -1,0 +1,13 @@
+body {
+    background-image:url("cheese.jpg");
+    padding: 50px;
+}
+#rat {
+    width: 300px;
+}
+p {
+    font-size:x-large;
+}
+#cheesewedge {
+    width: 100px;
+}
