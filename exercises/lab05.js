@@ -11,4 +11,4 @@ function Asknumber(whatNumber) {
 
 $("#good-button").click(function() {
     Asknumber(7);
-}); 
+});   
