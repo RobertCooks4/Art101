@@ -5,7 +5,7 @@ function Askpassword(whatPassword) {
         $("#output").html("Splendid!");
     }
     else {
-        $("#output").html("That's not quite right.");
+        $("#output2").html("That's not quite right.");
     }
 }
 
